@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background: url('../img/crowd-1056764_1920.jpg');
+    
+}
+.key{
+    display: flex;
+    align-content: center;
+    margin-top: 250px;
+    margin-left: 100px;
+}
+#keys{
+    color: yellow;
+    cursor: pointer;
+    border: 4px solid black;
+    height: 50px;
+    width: 50px;
+    display: flex;
+    padding: 10px;
+    margin: 20px;
+    text-align: center;
+}
+kbd{
+    display: block;
+    font-size: 30px;
+    color: white;
+}
+.sound{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
